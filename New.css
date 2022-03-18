@@ -1,6 +1,6 @@
 :root {
     --red: #104f68;
-    --black: #000;
+    --black: #252525;
     --white: #fff;
 }
 /* hide scrollbar but allow scrolling */
@@ -202,7 +202,7 @@ html {
 .button {
     padding: 1rem 3rem;
     border: none;
-    background: black;
+    background: #252525;
     color: #fff;
     font-size: 1rem;
     cursor: pointer;
@@ -211,7 +211,7 @@ html {
     text-decoration: none;
     border-radius: 0px;
     margin-top: 24px;
-    border: 1px solid #000000;
+    border: 1px solid #252525;
     transition: all 0.9s ease-out;
     font-weight: 500;
 }
@@ -219,7 +219,7 @@ html {
     font-size: 1rem;
     background: transparent;
     color: #fff;
-    border: 1px solid #ffffff;
+    border: 1px solid #252525;
     border-radius: 0px;
     font-weight: 500;
     text-decoration-color: rgb(255, 255, 255);
@@ -241,20 +241,21 @@ html {
     height: 100%;
 }
 .topline {
-    color: rgb(0, 0, 0);
+    color: #252525;
     text-transform: uppercase;
     font-weight: bold;
     margin-bottom: 0.5rem;
     cursor: context-menu;
     text-decoration: underline;
     text-underline-offset: 0.2em;
-    text-decoration-color: rgb(0, 0, 0) ;
+    text-decoration-color: #252525 ;
 }
 
 .services__heading {
     margin-bottom: 1rem;
     font-size: (2rem, 6vw, 3rem);
     cursor: context-menu;
+    color: #252525;
 }
 .services__features {
     list-style: none;
@@ -265,12 +266,12 @@ html {
 }
 .fab {
     margin-right: 1.2rem;
-    color: black;
+    color: #252525;
     font-size: 20px;
 }
 a {
     text-decoration: none;
-    color: black;
+    color: #252525;
     font-weight: 500;
 }
 @media screen and (max-width: 768px) {
@@ -416,7 +417,7 @@ dfn {
 /* Team Section */
 .team {
     padding: 8rem calc((100vw - 1100px) / 2);
-    background: black;
+    background: #252525;
 }
 
 .team__wrapper {
