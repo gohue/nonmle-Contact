@@ -217,8 +217,8 @@ html {
 }
 .button:hover{
     font-size: 1rem;
-    background: #252525;
-    color: #fff;
+    background: #fff;
+    color: #252525;
     border: 1px solid #252525;
     border-radius: 0px;
     font-weight: 500;
