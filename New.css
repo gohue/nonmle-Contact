@@ -217,7 +217,7 @@ html {
 }
 .button:hover{
     font-size: 1rem;
-    background: transparent;
+    background: #252525;
     color: #fff;
     border: 1px solid #252525;
     border-radius: 0px;
